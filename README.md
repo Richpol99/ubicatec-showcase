@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://ubicatec.vercel.app"><img src="https://img.shields.io/badge/Demo%20en%20Vivo-ubicatec.vercel.app-004a99?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
   <a href="https://github.com/Richpol99/ubicatec-android-showcase"><img src="https://img.shields.io/badge/Versi%C3%B3n%20Android-Showcase%20M%C3%B3vil-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Showcase"></a>
+  <a href="https://github.com/Richpol99/ubicatec-admin-showcase"><img src="https://img.shields.io/badge/Consola%20Admin-UbiDash%20(Compose)-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="UbiDash Admin"></a>
   <img src="https://img.shields.io/badge/Registro-INDAUTOR%20M%C3%A9xico-red?style=for-the-badge&logo=shield" alt="INDAUTOR">
   <img src="https://img.shields.io/badge/Arquitectura-PWA%20Offline--First-success?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA">
-  <img src="https://img.shields.io/badge/Tecnolog%C3%ADa-JavaScript%20ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 ---
